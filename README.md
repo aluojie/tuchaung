@@ -17,7 +17,6 @@
 - [CSS Inspiration |  CSS灵感的诞生地  我每天都的网站](https://github.com/chokcoco/CSS-Inspiration)
 - [ CSS 常用样式 |  有很多常用的CSS样式](https://github.com/QiShaoXuan/css_tricks)
 - [ Animista | CSS动画库  主打按需定制CSS动画效果](https://animista.net/)
-- [ Animista | CSS动画库  主打按需定制CSS动画效果](https://animista.net/)
 - [ CSS Minifier | 在线CSS代码简化/压缩工具](https://cssminifier.com/)
 - [ Sass: Sass 文档 | Sass 中文网  成熟、稳定、强大的CSS扩展语言](https://sass.bootcss.com/documentation)
 - [ Less 快速入门 | Less.js 中文文档 将CSS赋予了动态语言特性的样式语言](https://less.bootcss.com/)
